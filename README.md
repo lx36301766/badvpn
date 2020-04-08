@@ -1,4 +1,4 @@
-# BadVPN
+# BadVPN lx
 
 ## Introduction
 
